@@ -448,6 +448,8 @@
 			</dict>
 			<key>PAYLOAD_TYPE</key>
 			<integer>0</integer>
+			<key>PRESERVE_EXTENDED_ATTRIBUTES</key>
+			<false/>
 			<key>SHOW_INVISIBLE</key>
 			<false/>
 			<key>SPLIT_FORKS</key>
@@ -497,7 +499,7 @@
 			<key>USE_HFS+_COMPRESSION</key>
 			<false/>
 			<key>VERSION</key>
-			<string>1.5</string>
+			<string>1.6</string>
 		</dict>
 		<key>PROJECT_COMMENTS</key>
 		<dict>
